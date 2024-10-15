@@ -5,6 +5,16 @@
         "destination": "/first.html"
     
       },
+         {
+        "source": "/sfmedi-bg",
+        "destination": "/sfmedi.html"
+    
+      },
+          {
+        "source": "/sfmedi",
+        "destination": "/sfmedibg.html"
+    
+      },
       {
         "source": "/",
         "destination": "/index.html"
